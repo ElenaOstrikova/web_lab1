@@ -36,7 +36,26 @@ body{
     display: flex;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 1080px){
+    .profile{
+        height: 400px;
+        width: 100%;
+    }
 
+    .union{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .wall{
+        height: 400px;
+        width: 100%;
+    }
+
+    .friends,
+    .information{
+        width: 100%;
+        height: 400px;
+    }
 }
 
