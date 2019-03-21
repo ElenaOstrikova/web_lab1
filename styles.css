@@ -36,7 +36,7 @@ body{
     display: flex;
 }
 
-@media screen and (max-width: 1080px){
+@media screen and (max-width: 1100px){
     .profile{
         height: 400px;
         width: 100%;
