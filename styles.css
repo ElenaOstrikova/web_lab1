@@ -13,18 +13,24 @@ body{
 }
 
 .profile{
-
+    height: 200px;
 }
 
 .friends{
-
+    height: 320px;
+    width: 50%;
 }
 
 .wall{
-
+    height: 200px;
 }
 
 .information{
+    height: 320px;
+    width: 50%;
+}
 
+.union{
+    display: flex;
 }
 
